@@ -1,0 +1,14 @@
+body {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+.change {
+	color: salmon;
+	font-size: 56px;
+}
+
+.font {
+	font-size: 150px;
+}
